@@ -217,7 +217,7 @@ const SignUpPatient = () => {
                 height: isMatchSm ? null : "52px",
               }}
             >
-              Create Account
+              Create Account with new branch
             </Button>
           </Box>
         </Grid>
