@@ -1,0 +1,154 @@
+{
+  "cities": [
+    {
+      "name": "Karachi",
+      "labs": [
+        {
+          "name": "ABC Medical Lab",
+          "address": "123 Main Street, Karachi",
+          "contact": "+92-1234567890"
+        },
+        {
+          "name": "XYZ Diagnostic Center",
+          "address": "456 Park Avenue, Karachi",
+          "contact": "+92-9876543210"
+        },
+        {
+          "name": "City Medical Laboratory",
+          "address": "789 Elm Road, Karachi",
+          "contact": "+92-3456789012"
+        },
+        {
+          "name": "MediLab Diagnostics",
+          "address": "567 Oak Street, Karachi",
+          "contact": "+92-2109876543"
+        },
+        {
+          "name": "Precision Pathology Lab",
+          "address": "890 Cedar Lane, Karachi",
+          "contact": "+92-1098765432"
+        }
+      ]
+    },
+    {
+      "name": "Lahore",
+      "labs": [
+        {
+          "name": "Medical Solutions",
+          "address": "123 Main Street, Lahore",
+          "contact": "+92-1234567890"
+        },
+        {
+          "name": "City Lab Services",
+          "address": "456 Park Avenue, Lahore",
+          "contact": "+92-9876543210"
+        },
+        {
+          "name": "LabTech Diagnostics",
+          "address": "789 Elm Road, Lahore",
+          "contact": "+92-3456789012"
+        },
+        {
+          "name": "Diagnostic Care Center",
+          "address": "567 Oak Street, Lahore",
+          "contact": "+92-2109876543"
+        },
+        {
+          "name": "MediCorp Laboratories",
+          "address": "890 Cedar Lane, Lahore",
+          "contact": "+92-1098765432"
+        }
+      ]
+    },
+    {
+      "name": "Islamabad",
+      "labs": [
+        {
+          "name": "Capital Diagnostic Center",
+          "address": "123 Main Street, Islamabad",
+          "contact": "+92-1234567890"
+        },
+        {
+          "name": "Prime Medical Lab",
+          "address": "456 Park Avenue, Islamabad",
+          "contact": "+92-9876543210"
+        },
+        {
+          "name": "ProHealth Diagnostics",
+          "address": "789 Elm Road, Islamabad",
+          "contact": "+92-3456789012"
+        },
+        {
+          "name": "City Pathology Lab",
+          "address": "567 Oak Street, Islamabad",
+          "contact": "+92-2109876543"
+        },
+        {
+          "name": "LabLink Medical Solutions",
+          "address": "890 Cedar Lane, Islamabad",
+          "contact": "+92-1098765432"
+        }
+      ]
+    },
+    {
+        "name": "Faisalabad",
+        "labs": [
+      {
+        "name": "LabTech Diagnostics",
+        "address": "123 Main Street, Faisalabad",
+        "contact": "+92-3456789012"
+      },
+      {
+        "name": "Diagnostic Care Center",
+        "address": "456 Park Avenue, Faisalabad",
+        "contact": "+92-2109876543"
+      },
+      {
+        "name": "MediCorp Laboratories",
+        "address": "789 Elm Road, Faisalabad",
+        "contact": "+92-1098765432"
+      },
+      {
+        "name": "ABC Medical Lab",
+        "address": "567 Oak Street, Faisalabad",
+        "contact": "+92-1234567890"
+      },
+      {
+        "name": "City Medical Laboratory",
+        "address": "890 Cedar Lane, Faisalabad",
+        "contact": "+92-9876543210"
+      }
+      ]
+    }, 
+{
+    "name": "Multan",
+      "labs": [
+    {
+      "name": "Prime Medical Lab",
+      "address": "123 Main Street, Multan",
+      "contact": "+92-3456789012"
+    },
+    {
+      "name": "ProHealth Diagnostics",
+      "address": "456 Park Avenue, Multan",
+      "contact": "+92-2109876543"
+    },
+    {
+      "name": "City Pathology Lab",
+      "address": "789 Elm Road, Multan",
+      "contact": "+92-1098765432"
+    },
+    {
+      "name": "LabLink Medical Solutions",
+      "address": "567 Oak Street, Multan",
+      "contact": "+92-1234567890"
+    },
+    {
+      "name": "ABC Medical Lab",
+      "address": "890 Cedar Lane, Multan",
+      "contact": "+92-9876543210"
+      }
+    ]
+    }
+  ]
+}

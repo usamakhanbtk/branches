@@ -1,0 +1,2827 @@
+[
+    {
+      "city": "Karachi",
+      "country": "Pakistan",
+      "pop2023": 11624219,
+      "latitude": 24.8608,
+      "longitude": 67.0104,
+      "fill": "#5e4fa2"
+    },
+    {
+      "city": "Lahore",
+      "country": "Pakistan",
+      "pop2023": 6310888,
+      "latitude": 31.558,
+      "longitude": 74.3507,
+      "fill": "#abdda4"
+    },
+    {
+      "city": "Faisalabad",
+      "country": "Pakistan",
+      "pop2023": 2506595,
+      "latitude": 31.4155,
+      "longitude": 73.0897,
+      "fill": "#e6f598"
+    },
+    {
+      "city": "Rawalpindi",
+      "country": "Pakistan",
+      "pop2023": 1743101,
+      "latitude": 33.5973,
+      "longitude": 73.0479,
+      "fill": "#fee08b"
+    },
+    {
+      "city": "Multan",
+      "country": "Pakistan",
+      "pop2023": 1437230,
+      "latitude": 30.1968,
+      "longitude": 71.4782,
+      "fill": "#fee08b"
+    },
+    {
+      "city": "Hyderabad",
+      "country": "Pakistan",
+      "pop2023": 1386330,
+      "latitude": 25.3924,
+      "longitude": 68.3737,
+      "fill": "#fee08b"
+    },
+    {
+      "city": "Gujranwala",
+      "country": "Pakistan",
+      "pop2023": 1384471,
+      "latitude": 32.1557,
+      "longitude": 74.187,
+      "fill": "#fee08b"
+    },
+    {
+      "city": "Peshawar",
+      "country": "Pakistan",
+      "pop2023": 1218773,
+      "latitude": 34.008,
+      "longitude": 71.5785,
+      "fill": "#fee08b"
+    },
+    {
+      "city": "Rahim Yar Khan",
+      "country": "Pakistan",
+      "pop2023": 788915,
+      "latitude": 28.4199,
+      "longitude": 70.3035,
+      "fill": "#fdae61"
+    },
+    {
+      "city": "Quetta",
+      "country": "Pakistan",
+      "pop2023": 733675,
+      "latitude": 30.1841,
+      "longitude": 67.0014,
+      "fill": "#f46d43"
+    },
+    {
+      "city": "Muzaffarabad",
+      "country": "Pakistan",
+      "pop2023": 725000,
+      "latitude": 34.37,
+      "longitude": 73.4708,
+      "fill": "#f46d43"
+    },
+    {
+      "city": "Battagram",
+      "country": "Pakistan",
+      "pop2023": 700000,
+      "latitude": 34.6772,
+      "longitude": 73.0233,
+      "fill": "#f46d43"
+    },
+    {
+      "city": "Kotli",
+      "country": "Pakistan",
+      "pop2023": 640000,
+      "latitude": 33.5184,
+      "longitude": 73.9022,
+      "fill": "#f46d43"
+    },
+    {
+      "city": "Islamabad",
+      "country": "Pakistan",
+      "pop2023": 601600,
+      "latitude": 33.7215,
+      "longitude": 73.0433,
+      "fill": "#f46d43"
+    },
+    {
+      "city": "Bahawalpur",
+      "country": "Pakistan",
+      "pop2023": 552607,
+      "latitude": 29.3978,
+      "longitude": 71.6752,
+      "fill": "#f46d43"
+    },
+    {
+      "city": "Sargodha",
+      "country": "Pakistan",
+      "pop2023": 542603,
+      "latitude": 32.0859,
+      "longitude": 72.6742,
+      "fill": "#f46d43"
+    },
+    {
+      "city": "Sialkot",
+      "country": "Pakistan",
+      "pop2023": 477396,
+      "latitude": 32.4927,
+      "longitude": 74.5313,
+      "fill": "#d53e4f"
+    },
+    {
+      "city": "Sukkur",
+      "country": "Pakistan",
+      "pop2023": 417767,
+      "latitude": 27.7032,
+      "longitude": 68.8589,
+      "fill": "#d53e4f"
+    },
+    {
+      "city": "Larkana",
+      "country": "Pakistan",
+      "pop2023": 364033,
+      "latitude": 27.559,
+      "longitude": 68.212,
+      "fill": "#d53e4f"
+    },
+    {
+      "city": "Shekhupura",
+      "country": "Pakistan",
+      "pop2023": 361303,
+      "latitude": 31.7129,
+      "longitude": 73.9856,
+      "fill": "#d53e4f"
+    },
+    {
+      "city": "Bhimber",
+      "country": "Pakistan",
+      "pop2023": 342900,
+      "latitude": 32.9747,
+      "longitude": 74.0785,
+      "fill": "#d53e4f"
+    },
+    {
+      "city": "Jhang Sadr",
+      "country": "Pakistan",
+      "pop2023": 341210,
+      "latitude": 31.2698,
+      "longitude": 72.3169,
+      "fill": "#d53e4f"
+    },
+    {
+      "city": "Gujrat",
+      "country": "Pakistan",
+      "pop2023": 301506,
+      "latitude": 32.5742,
+      "longitude": 74.0754,
+      "fill": "#d53e4f"
+    },
+    {
+      "city": "Mardan",
+      "country": "Pakistan",
+      "pop2023": 300424,
+      "latitude": 34.1979,
+      "longitude": 72.0497,
+      "fill": "#d53e4f"
+    },
+    {
+      "city": "Malir Cantonment",
+      "country": "Pakistan",
+      "pop2023": 300000,
+      "latitude": 24.9434,
+      "longitude": 67.2059,
+      "fill": "#d53e4f"
+    },
+    {
+      "city": "Kasur",
+      "country": "Pakistan",
+      "pop2023": 290643,
+      "latitude": 31.1187,
+      "longitude": 74.4502
+    },
+    {
+      "city": "Mingora",
+      "country": "Pakistan",
+      "pop2023": 279914,
+      "latitude": 34.7795,
+      "longitude": 72.3626
+    },
+    {
+      "city": "Dera Ghazi Khan",
+      "country": "Pakistan",
+      "pop2023": 236093,
+      "latitude": 30.0459,
+      "longitude": 70.6403
+    },
+    {
+      "city": "Sahiwal",
+      "country": "Pakistan",
+      "pop2023": 235695,
+      "latitude": 30.666,
+      "longitude": 73.1019
+    },
+    {
+      "city": "Nawabshah",
+      "country": "Pakistan",
+      "pop2023": 229504,
+      "latitude": 26.2394,
+      "longitude": 68.4037
+    },
+    {
+      "city": "Okara",
+      "country": "Pakistan",
+      "pop2023": 223648,
+      "latitude": 30.8103,
+      "longitude": 73.4516
+    },
+    {
+      "city": "Mirpur Khas",
+      "country": "Pakistan",
+      "pop2023": 215657,
+      "latitude": 25.5276,
+      "longitude": 69.0126
+    },
+    {
+      "city": "Chiniot",
+      "country": "Pakistan",
+      "pop2023": 201781,
+      "latitude": 31.7209,
+      "longitude": 72.9784
+    },
+    {
+      "city": "Shahkot",
+      "country": "Pakistan",
+      "pop2023": 200000,
+      "latitude": 31.5709,
+      "longitude": 73.4853
+    },
+    {
+      "city": "Kamoke",
+      "country": "Pakistan",
+      "pop2023": 199531,
+      "latitude": 31.9753,
+      "longitude": 74.223
+    },
+    {
+      "city": "Saddiqabad",
+      "country": "Pakistan",
+      "pop2023": 189876,
+      "latitude": 28.3091,
+      "longitude": 70.1265
+    },
+    {
+      "city": "Burewala",
+      "country": "Pakistan",
+      "pop2023": 183915,
+      "latitude": 30.1667,
+      "longitude": 72.65
+    },
+    {
+      "city": "Jacobabad",
+      "country": "Pakistan",
+      "pop2023": 170588,
+      "latitude": 28.2819,
+      "longitude": 68.4376
+    },
+    {
+      "city": "Muzaffargarh",
+      "country": "Pakistan",
+      "pop2023": 165192,
+      "latitude": 30.0726,
+      "longitude": 71.1938
+    },
+    {
+      "city": "Muridke",
+      "country": "Pakistan",
+      "pop2023": 164246,
+      "latitude": 31.8026,
+      "longitude": 74.2577
+    },
+    {
+      "city": "Shikarpur",
+      "country": "Pakistan",
+      "pop2023": 156901,
+      "latitude": 27.9556,
+      "longitude": 68.6382
+    },
+    {
+      "city": "Hafizabad",
+      "country": "Pakistan",
+      "pop2023": 153656,
+      "latitude": 32.0709,
+      "longitude": 73.688
+    },
+    {
+      "city": "Kohat",
+      "country": "Pakistan",
+      "pop2023": 151427,
+      "latitude": 33.582,
+      "longitude": 71.4493
+    },
+    {
+      "city": "Tordher",
+      "country": "Pakistan",
+      "pop2023": 150000,
+      "latitude": 33.9905,
+      "longitude": 72.2863
+    },
+    {
+      "city": "Jhelum",
+      "country": "Pakistan",
+      "pop2023": 145000,
+      "latitude": 32.9345,
+      "longitude": 73.731
+    },
+    {
+      "city": "Khanpur",
+      "country": "Pakistan",
+      "pop2023": 142426,
+      "latitude": 28.6474,
+      "longitude": 70.6569
+    },
+    {
+      "city": "Khuzdar",
+      "country": "Pakistan",
+      "pop2023": 141227,
+      "latitude": 27.8119,
+      "longitude": 66.611
+    },
+    {
+      "city": "Dadu",
+      "country": "Pakistan",
+      "pop2023": 139784,
+      "latitude": 26.7303,
+      "longitude": 67.7769
+    },
+    {
+      "city": "Gojra",
+      "country": "Pakistan",
+      "pop2023": 139726,
+      "latitude": 31.1493,
+      "longitude": 72.6832
+    },
+    {
+      "city": "Mandi Bahauddin",
+      "country": "Pakistan",
+      "pop2023": 129733,
+      "latitude": 32.587,
+      "longitude": 73.4912
+    },
+    {
+      "city": "Tando Allahyar",
+      "country": "Pakistan",
+      "pop2023": 127202,
+      "latitude": 25.4605,
+      "longitude": 68.7175
+    },
+    {
+      "city": "Daska Kalan",
+      "country": "Pakistan",
+      "pop2023": 126924,
+      "latitude": 32.3242,
+      "longitude": 74.3504
+    },
+    {
+      "city": "Pakpattan",
+      "country": "Pakistan",
+      "pop2023": 126706,
+      "latitude": 30.3431,
+      "longitude": 73.3894
+    },
+    {
+      "city": "Bahawalnagar",
+      "country": "Pakistan",
+      "pop2023": 126700,
+      "latitude": 30.5508,
+      "longitude": 73.3908
+    },
+    {
+      "city": "Bahawalnagar",
+      "country": "Pakistan",
+      "pop2023": 126617,
+      "latitude": 29.9984,
+      "longitude": 73.2527
+    },
+    {
+      "city": "Tando Adam",
+      "country": "Pakistan",
+      "pop2023": 125598,
+      "latitude": 25.7682,
+      "longitude": 68.662
+    },
+    {
+      "city": "Khairpur Mir's",
+      "country": "Pakistan",
+      "pop2023": 124602,
+      "latitude": 27.5295,
+      "longitude": 68.7591
+    },
+    {
+      "city": "New Mirpur",
+      "country": "Pakistan",
+      "pop2023": 124352,
+      "latitude": 33.1478,
+      "longitude": 73.7519
+    },
+    {
+      "city": "Chishtian",
+      "country": "Pakistan",
+      "pop2023": 122199,
+      "latitude": 29.7971,
+      "longitude": 72.8577
+    },
+    {
+      "city": "Abbottabad",
+      "country": "Pakistan",
+      "pop2023": 120000,
+      "latitude": 34.1463,
+      "longitude": 73.2117
+    },
+    {
+      "city": "Jaranwala",
+      "country": "Pakistan",
+      "pop2023": 119785,
+      "latitude": 31.3332,
+      "longitude": 73.4187
+    },
+    {
+      "city": "Ahmadpur East",
+      "country": "Pakistan",
+      "pop2023": 116579,
+      "latitude": 29.1427,
+      "longitude": 71.2577
+    },
+    {
+      "city": "Vihari",
+      "country": "Pakistan",
+      "pop2023": 112840,
+      "latitude": 30.0445,
+      "longitude": 72.3556
+    },
+    {
+      "city": "Kamalia",
+      "country": "Pakistan",
+      "pop2023": 112426,
+      "latitude": 30.7271,
+      "longitude": 72.6461
+    },
+    {
+      "city": "Kot Addu",
+      "country": "Pakistan",
+      "pop2023": 104217,
+      "latitude": 30.4691,
+      "longitude": 70.967
+    },
+    {
+      "city": "Khushab",
+      "country": "Pakistan",
+      "pop2023": 102793,
+      "latitude": 32.2967,
+      "longitude": 72.3525
+    },
+    {
+      "city": "Wazirabad",
+      "country": "Pakistan",
+      "pop2023": 102444,
+      "latitude": 32.4432,
+      "longitude": 74.12
+    },
+    {
+      "city": "Dera Ismail Khan",
+      "country": "Pakistan",
+      "pop2023": 101616,
+      "latitude": 31.8313,
+      "longitude": 70.9017
+    },
+    {
+      "city": "Chakwal",
+      "country": "Pakistan",
+      "pop2023": 101200,
+      "latitude": 32.9329,
+      "longitude": 72.8539
+    },
+    {
+      "city": "Swabi",
+      "country": "Pakistan",
+      "pop2023": 97363,
+      "latitude": 34.1202,
+      "longitude": 72.4698
+    },
+    {
+      "city": "Lodhran",
+      "country": "Pakistan",
+      "pop2023": 97249,
+      "latitude": 29.5339,
+      "longitude": 71.6324
+    },
+    {
+      "city": "Nowshera Cantonment",
+      "country": "Pakistan",
+      "pop2023": 96766,
+      "latitude": 33.9983,
+      "longitude": 71.9983
+    },
+    {
+      "city": "Charsadda",
+      "country": "Pakistan",
+      "pop2023": 95319,
+      "latitude": 34.1482,
+      "longitude": 71.7406
+    },
+    {
+      "city": "Jalalpur Jattan",
+      "country": "Pakistan",
+      "pop2023": 93883,
+      "latitude": 32.6412,
+      "longitude": 74.2056
+    },
+    {
+      "city": "Mianwali",
+      "country": "Pakistan",
+      "pop2023": 89570,
+      "latitude": 32.5776,
+      "longitude": 71.5285
+    },
+    {
+      "city": "Chaman",
+      "country": "Pakistan",
+      "pop2023": 88568,
+      "latitude": 30.9177,
+      "longitude": 66.4526
+    },
+    {
+      "city": "Kandhkot",
+      "country": "Pakistan",
+      "pop2023": 88468,
+      "latitude": 28.2457,
+      "longitude": 69.1797
+    },
+    {
+      "city": "Hasilpur",
+      "country": "Pakistan",
+      "pop2023": 88031,
+      "latitude": 29.6922,
+      "longitude": 72.5457
+    },
+    {
+      "city": "Arifwala",
+      "country": "Pakistan",
+      "pop2023": 87360,
+      "latitude": 30.2906,
+      "longitude": 73.0657
+    },
+    {
+      "city": "Mianke Mor",
+      "country": "Pakistan",
+      "pop2023": 86900,
+      "latitude": 31.2024,
+      "longitude": 73.9486
+    },
+    {
+      "city": "Attock City",
+      "country": "Pakistan",
+      "pop2023": 85479,
+      "latitude": 33.7667,
+      "longitude": 72.3598
+    },
+    {
+      "city": "Chichawatni",
+      "country": "Pakistan",
+      "pop2023": 82762,
+      "latitude": 30.5301,
+      "longitude": 72.6916
+    },
+    {
+      "city": "Bhakkar",
+      "country": "Pakistan",
+      "pop2023": 81950,
+      "latitude": 31.6269,
+      "longitude": 71.0647
+    },
+    {
+      "city": "Kharian",
+      "country": "Pakistan",
+      "pop2023": 81435,
+      "latitude": 32.8161,
+      "longitude": 73.887
+    },
+    {
+      "city": "Layyah",
+      "country": "Pakistan",
+      "pop2023": 78954,
+      "latitude": 30.9613,
+      "longitude": 70.939
+    },
+    {
+      "city": "Kambar",
+      "country": "Pakistan",
+      "pop2023": 77481,
+      "latitude": 27.5875,
+      "longitude": 68.0007
+    },
+    {
+      "city": "Moro",
+      "country": "Pakistan",
+      "pop2023": 76765,
+      "latitude": 26.6632,
+      "longitude": 68.0002
+    },
+    {
+      "city": "Mian Channun",
+      "country": "Pakistan",
+      "pop2023": 76226,
+      "latitude": 30.4407,
+      "longitude": 72.3568
+    },
+    {
+      "city": "Turbat",
+      "country": "Pakistan",
+      "pop2023": 75694,
+      "latitude": 26.0012,
+      "longitude": 63.0485
+    },
+    {
+      "city": "Shahdad Kot",
+      "country": "Pakistan",
+      "pop2023": 75411,
+      "latitude": 27.8473,
+      "longitude": 67.9068
+    },
+    {
+      "city": "Bhalwal",
+      "country": "Pakistan",
+      "pop2023": 74744,
+      "latitude": 32.2658,
+      "longitude": 72.8981
+    },
+    {
+      "city": "Dipalpur",
+      "country": "Pakistan",
+      "pop2023": 74640,
+      "latitude": 30.6698,
+      "longitude": 73.6531
+    },
+    {
+      "city": "Badin",
+      "country": "Pakistan",
+      "pop2023": 73569,
+      "latitude": 24.656,
+      "longitude": 68.837
+    },
+    {
+      "city": "Pano Aqil",
+      "country": "Pakistan",
+      "pop2023": 72881,
+      "latitude": 27.8562,
+      "longitude": 69.1111
+    },
+    {
+      "city": "Kotri",
+      "country": "Pakistan",
+      "pop2023": 72672,
+      "latitude": 25.3657,
+      "longitude": 68.3083
+    },
+    {
+      "city": "Tando Muhammad Khan",
+      "country": "Pakistan",
+      "pop2023": 72659,
+      "latitude": 25.1238,
+      "longitude": 68.5368
+    },
+    {
+      "city": "Harunabad",
+      "country": "Pakistan",
+      "pop2023": 72432,
+      "latitude": 29.6121,
+      "longitude": 73.138
+    },
+    {
+      "city": "Pattoki",
+      "country": "Pakistan",
+      "pop2023": 70436,
+      "latitude": 31.0202,
+      "longitude": 73.8533
+    },
+    {
+      "city": "Chenab Nagar",
+      "country": "Pakistan",
+      "pop2023": 70000,
+      "latitude": 31.7551,
+      "longitude": 72.914
+    },
+    {
+      "city": "Kahror Pakka",
+      "country": "Pakistan",
+      "pop2023": 69743,
+      "latitude": 29.6243,
+      "longitude": 71.9144
+    },
+    {
+      "city": "Gujar Khan",
+      "country": "Pakistan",
+      "pop2023": 69374,
+      "latitude": 33.2541,
+      "longitude": 73.3043
+    },
+    {
+      "city": "Kot Malik Barkhurdar",
+      "country": "Pakistan",
+      "pop2023": 69359,
+      "latitude": 30.2038,
+      "longitude": 66.9872
+    },
+    {
+      "city": "Chuchar-kana Mandi",
+      "country": "Pakistan",
+      "pop2023": 69321,
+      "latitude": 31.75,
+      "longitude": 73.8
+    },
+    {
+      "city": "Toba Tek Singh",
+      "country": "Pakistan",
+      "pop2023": 69064,
+      "latitude": 30.9713,
+      "longitude": 72.4827
+    },
+    {
+      "city": "Narowal",
+      "country": "Pakistan",
+      "pop2023": 68291,
+      "latitude": 32.102,
+      "longitude": 74.873
+    },
+    {
+      "city": "Shorkot",
+      "country": "Pakistan",
+      "pop2023": 67439,
+      "latitude": 31.9102,
+      "longitude": 70.8776
+    },
+    {
+      "city": "Shahdadpur",
+      "country": "Pakistan",
+      "pop2023": 67249,
+      "latitude": 25.9254,
+      "longitude": 68.6228
+    },
+    {
+      "city": "Shabqadar",
+      "country": "Pakistan",
+      "pop2023": 66541,
+      "latitude": 34.216,
+      "longitude": 71.5548
+    },
+    {
+      "city": "Mansehra",
+      "country": "Pakistan",
+      "pop2023": 66486,
+      "latitude": 34.3302,
+      "longitude": 73.1968
+    },
+    {
+      "city": "Shujaabad",
+      "country": "Pakistan",
+      "pop2023": 65952,
+      "latitude": 29.8809,
+      "longitude": 71.2934
+    },
+    {
+      "city": "Haveli Lakha",
+      "country": "Pakistan",
+      "pop2023": 65289,
+      "latitude": 30.451,
+      "longitude": 73.6937
+    },
+    {
+      "city": "Lala Musa",
+      "country": "Pakistan",
+      "pop2023": 65197,
+      "latitude": 32.7014,
+      "longitude": 73.9575
+    },
+    {
+      "city": "Mailsi",
+      "country": "Pakistan",
+      "pop2023": 64545,
+      "latitude": 29.8012,
+      "longitude": 72.174
+    },
+    {
+      "city": "Shakargarh",
+      "country": "Pakistan",
+      "pop2023": 64304,
+      "latitude": 32.2636,
+      "longitude": 75.1601
+    },
+    {
+      "city": "Ghotki",
+      "country": "Pakistan",
+      "pop2023": 64295,
+      "latitude": 28.0044,
+      "longitude": 69.3157
+    },
+    {
+      "city": "Sibi",
+      "country": "Pakistan",
+      "pop2023": 64069,
+      "latitude": 29.543,
+      "longitude": 67.8773
+    },
+    {
+      "city": "Jampur",
+      "country": "Pakistan",
+      "pop2023": 63791,
+      "latitude": 29.6423,
+      "longitude": 70.5952
+    },
+    {
+      "city": "Sambrial",
+      "country": "Pakistan",
+      "pop2023": 62874,
+      "latitude": 32.4784,
+      "longitude": 74.3534
+    },
+    {
+      "city": "Sanghar",
+      "country": "Pakistan",
+      "pop2023": 62033,
+      "latitude": 26.0469,
+      "longitude": 68.9492
+    },
+    {
+      "city": "Hujra Shah Muqim",
+      "country": "Pakistan",
+      "pop2023": 61546,
+      "latitude": 30.7417,
+      "longitude": 73.8233
+    },
+    {
+      "city": "Kabirwala",
+      "country": "Pakistan",
+      "pop2023": 60782,
+      "latitude": 30.4047,
+      "longitude": 71.8627
+    },
+    {
+      "city": "Chunian",
+      "country": "Pakistan",
+      "pop2023": 57312,
+      "latitude": 30.9662,
+      "longitude": 73.9791
+    },
+    {
+      "city": "Sangla Hill",
+      "country": "Pakistan",
+      "pop2023": 57002,
+      "latitude": 31.7167,
+      "longitude": 73.3833
+    },
+    {
+      "city": "Haripur",
+      "country": "Pakistan",
+      "pop2023": 56977,
+      "latitude": 33.9978,
+      "longitude": 72.9349
+    },
+    {
+      "city": "Nankana Sahib",
+      "country": "Pakistan",
+      "pop2023": 56366,
+      "latitude": 31.4501,
+      "longitude": 73.7065
+    },
+    {
+      "city": "Pasrur",
+      "country": "Pakistan",
+      "pop2023": 53364,
+      "latitude": 32.2629,
+      "longitude": 74.6633
+    },
+    {
+      "city": "Gwadar",
+      "country": "Pakistan",
+      "pop2023": 51901,
+      "latitude": 25.1216,
+      "longitude": 62.3254
+    },
+    {
+      "city": "Rajanpur",
+      "country": "Pakistan",
+      "pop2023": 50682,
+      "latitude": 29.1041,
+      "longitude": 70.3297
+    },
+    {
+      "city": "Rohri",
+      "country": "Pakistan",
+      "pop2023": 50649,
+      "latitude": 27.692,
+      "longitude": 68.895
+    },
+    {
+      "city": "Zhob",
+      "country": "Pakistan",
+      "pop2023": 50537,
+      "latitude": 31.3408,
+      "longitude": 69.4493
+    },
+    {
+      "city": "Matli",
+      "country": "Pakistan",
+      "pop2023": 50398,
+      "latitude": 25.0429,
+      "longitude": 68.6559
+    },
+    {
+      "city": "Rawalakot",
+      "country": "Pakistan",
+      "pop2023": 50000,
+      "latitude": 33.8578,
+      "longitude": 73.7604
+    },
+    {
+      "city": "Hadali",
+      "country": "Pakistan",
+      "pop2023": 49663,
+      "latitude": 32.6404,
+      "longitude": 74.569
+    },
+    {
+      "city": "Mirpur Mathelo",
+      "country": "Pakistan",
+      "pop2023": 49311,
+      "latitude": 28.0214,
+      "longitude": 69.5491
+    },
+    {
+      "city": "Bannu",
+      "country": "Pakistan",
+      "pop2023": 49008,
+      "latitude": 32.9853,
+      "longitude": 70.604
+    },
+    {
+      "city": "Dullewala",
+      "country": "Pakistan",
+      "pop2023": 48682,
+      "latitude": 31.8344,
+      "longitude": 71.4364
+    },
+    {
+      "city": "Hala",
+      "country": "Pakistan",
+      "pop2023": 47915,
+      "latitude": 25.8146,
+      "longitude": 68.422
+    },
+    {
+      "city": "Ratodero",
+      "country": "Pakistan",
+      "pop2023": 47819,
+      "latitude": 27.8023,
+      "longitude": 68.289
+    },
+    {
+      "city": "Jatoi Shimali",
+      "country": "Pakistan",
+      "pop2023": 47144,
+      "latitude": 29.5183,
+      "longitude": 70.8447
+    },
+    {
+      "city": "Jauharabad",
+      "country": "Pakistan",
+      "pop2023": 46545,
+      "latitude": 32.2902,
+      "longitude": 72.2818
+    },
+    {
+      "city": "Bat Khela",
+      "country": "Pakistan",
+      "pop2023": 46079,
+      "latitude": 34.6178,
+      "longitude": 71.9725
+    },
+    {
+      "city": "Kot Radha Kishan",
+      "country": "Pakistan",
+      "pop2023": 45938,
+      "latitude": 31.1707,
+      "longitude": 74.1013
+    },
+    {
+      "city": "Kahna Nau",
+      "country": "Pakistan",
+      "pop2023": 45888,
+      "latitude": 31.3671,
+      "longitude": 74.369
+    },
+    {
+      "city": "Mustafabad",
+      "country": "Pakistan",
+      "pop2023": 45795,
+      "latitude": 30.8922,
+      "longitude": 73.4989
+    },
+    {
+      "city": "Chak Thirty-one -Eleven Left",
+      "country": "Pakistan",
+      "pop2023": 45665,
+      "latitude": 30.4239,
+      "longitude": 72.6974
+    },
+    {
+      "city": "Talagang",
+      "country": "Pakistan",
+      "pop2023": 44960,
+      "latitude": 32.9277,
+      "longitude": 72.4159
+    },
+    {
+      "city": "Taunsa",
+      "country": "Pakistan",
+      "pop2023": 44869,
+      "latitude": 30.7036,
+      "longitude": 70.6505
+    },
+    {
+      "city": "Thatta",
+      "country": "Pakistan",
+      "pop2023": 44302,
+      "latitude": 24.7474,
+      "longitude": 67.9235
+    },
+    {
+      "city": "Sarai Alamgir",
+      "country": "Pakistan",
+      "pop2023": 44120,
+      "latitude": 32.9049,
+      "longitude": 73.7552
+    },
+    {
+      "city": "Usta Muhammad",
+      "country": "Pakistan",
+      "pop2023": 43983,
+      "latitude": 28.1772,
+      "longitude": 68.0437
+    },
+    {
+      "city": "Kamra",
+      "country": "Pakistan",
+      "pop2023": 43779,
+      "latitude": 33.747,
+      "longitude": 73.5123
+    },
+    {
+      "city": "Umarkot",
+      "country": "Pakistan",
+      "pop2023": 42074,
+      "latitude": 25.3633,
+      "longitude": 69.7418
+    },
+    {
+      "city": "Basirpur",
+      "country": "Pakistan",
+      "pop2023": 41617,
+      "latitude": 30.5776,
+      "longitude": 73.8391
+    },
+    {
+      "city": "Sehwan",
+      "country": "Pakistan",
+      "pop2023": 41150,
+      "latitude": 26.4249,
+      "longitude": 67.8613
+    },
+    {
+      "city": "Naushahra Virkan",
+      "country": "Pakistan",
+      "pop2023": 40853,
+      "latitude": 31.9626,
+      "longitude": 73.9712
+    },
+    {
+      "city": "Fort Abbas",
+      "country": "Pakistan",
+      "pop2023": 40626,
+      "latitude": 29.1934,
+      "longitude": 72.8552
+    },
+    {
+      "city": "Havelian",
+      "country": "Pakistan",
+      "pop2023": 40481,
+      "latitude": 34.0535,
+      "longitude": 73.1599
+    },
+    {
+      "city": "Khairpur",
+      "country": "Pakistan",
+      "pop2023": 40083,
+      "latitude": 28.0644,
+      "longitude": 69.7036
+    },
+    {
+      "city": "Dinga",
+      "country": "Pakistan",
+      "pop2023": 39784,
+      "latitude": 32.641,
+      "longitude": 73.7204
+    },
+    {
+      "city": "Ladhewala Waraich",
+      "country": "Pakistan",
+      "pop2023": 39757,
+      "latitude": 32.1569,
+      "longitude": 74.1156
+    },
+    {
+      "city": "Khalabat",
+      "country": "Pakistan",
+      "pop2023": 39148,
+      "latitude": 34.06,
+      "longitude": 72.8896
+    },
+    {
+      "city": "New Badah",
+      "country": "Pakistan",
+      "pop2023": 38855,
+      "latitude": 27.3417,
+      "longitude": 68.0319
+    },
+    {
+      "city": "Tank",
+      "country": "Pakistan",
+      "pop2023": 38488,
+      "latitude": 32.2171,
+      "longitude": 70.3831
+    },
+    {
+      "city": "Kot Mumin",
+      "country": "Pakistan",
+      "pop2023": 38355,
+      "latitude": 32.1884,
+      "longitude": 73.0299
+    },
+    {
+      "city": "Tandlianwala",
+      "country": "Pakistan",
+      "pop2023": 38285,
+      "latitude": 31.0336,
+      "longitude": 73.1327
+    },
+    {
+      "city": "Chak Azam Sahu",
+      "country": "Pakistan",
+      "pop2023": 38216,
+      "latitude": 30.752,
+      "longitude": 73.0283
+    },
+    {
+      "city": "Loralai",
+      "country": "Pakistan",
+      "pop2023": 37787,
+      "latitude": 30.3705,
+      "longitude": 68.598
+    },
+    {
+      "city": "Jalalpur Pirwala",
+      "country": "Pakistan",
+      "pop2023": 37393,
+      "latitude": 29.5051,
+      "longitude": 71.222
+    },
+    {
+      "city": "Pabbi",
+      "country": "Pakistan",
+      "pop2023": 37307,
+      "latitude": 34.0097,
+      "longitude": 71.7944
+    },
+    {
+      "city": "Chak Jhumra",
+      "country": "Pakistan",
+      "pop2023": 37214,
+      "latitude": 31.5681,
+      "longitude": 73.1832
+    },
+    {
+      "city": "Sahiwal",
+      "country": "Pakistan",
+      "pop2023": 37186,
+      "latitude": 31.9739,
+      "longitude": 72.3311
+    },
+    {
+      "city": "Renala Khurd",
+      "country": "Pakistan",
+      "pop2023": 37111,
+      "latitude": 30.8788,
+      "longitude": 73.5986
+    },
+    {
+      "city": "Risalpur Cantonment",
+      "country": "Pakistan",
+      "pop2023": 37084,
+      "latitude": 34.0605,
+      "longitude": 71.9928
+    },
+    {
+      "city": "Lakki",
+      "country": "Pakistan",
+      "pop2023": 36391,
+      "latitude": 32.6072,
+      "longitude": 70.9123
+    },
+    {
+      "city": "Topi",
+      "country": "Pakistan",
+      "pop2023": 36340,
+      "latitude": 34.0703,
+      "longitude": 72.6215
+    },
+    {
+      "city": "Hangu",
+      "country": "Pakistan",
+      "pop2023": 36150,
+      "latitude": 33.532,
+      "longitude": 71.0595
+    },
+    {
+      "city": "Pir Jo Goth",
+      "country": "Pakistan",
+      "pop2023": 35537,
+      "latitude": 27.5918,
+      "longitude": 68.6185
+    },
+    {
+      "city": "Kundian",
+      "country": "Pakistan",
+      "pop2023": 35406,
+      "latitude": 32.4577,
+      "longitude": 71.4789
+    },
+    {
+      "city": "Pir Mahal",
+      "country": "Pakistan",
+      "pop2023": 35343,
+      "latitude": 30.7666,
+      "longitude": 72.4345
+    },
+    {
+      "city": "Khurrianwala",
+      "country": "Pakistan",
+      "pop2023": 35292,
+      "latitude": 31.4994,
+      "longitude": 73.2676
+    },
+    {
+      "city": "Mehrabpur",
+      "country": "Pakistan",
+      "pop2023": 35263,
+      "latitude": 28.1077,
+      "longitude": 68.0255
+    },
+    {
+      "city": "Pindi Bhattian",
+      "country": "Pakistan",
+      "pop2023": 35088,
+      "latitude": 31.8984,
+      "longitude": 73.2734
+    },
+    {
+      "city": "Malakwal City",
+      "country": "Pakistan",
+      "pop2023": 35000,
+      "latitude": 32.5549,
+      "longitude": 73.2122
+    },
+    {
+      "city": "Narang Mandi",
+      "country": "Pakistan",
+      "pop2023": 34778,
+      "latitude": 31.9038,
+      "longitude": 74.5159
+    },
+    {
+      "city": "Malakwal",
+      "country": "Pakistan",
+      "pop2023": 34589,
+      "latitude": 32.5545,
+      "longitude": 73.2127
+    },
+    {
+      "city": "Thul",
+      "country": "Pakistan",
+      "pop2023": 34472,
+      "latitude": 28.2403,
+      "longitude": 68.7755
+    },
+    {
+      "city": "Pindi Gheb",
+      "country": "Pakistan",
+      "pop2023": 34301,
+      "latitude": 33.241,
+      "longitude": 72.2648
+    },
+    {
+      "city": "Zahir Pir",
+      "country": "Pakistan",
+      "pop2023": 34121,
+      "latitude": 28.8128,
+      "longitude": 70.5234
+    },
+    {
+      "city": "Dunyapur",
+      "country": "Pakistan",
+      "pop2023": 34044,
+      "latitude": 29.8027,
+      "longitude": 71.7434
+    },
+    {
+      "city": "Gambat",
+      "country": "Pakistan",
+      "pop2023": 34005,
+      "latitude": 27.3517,
+      "longitude": 68.5215
+    },
+    {
+      "city": "Kashmor",
+      "country": "Pakistan",
+      "pop2023": 33732,
+      "latitude": 28.4326,
+      "longitude": 69.5836
+    },
+    {
+      "city": "Alipur",
+      "country": "Pakistan",
+      "pop2023": 33601,
+      "latitude": 29.3824,
+      "longitude": 70.9111
+    },
+    {
+      "city": "Naudero",
+      "country": "Pakistan",
+      "pop2023": 33455,
+      "latitude": 27.6668,
+      "longitude": 68.3609
+    },
+    {
+      "city": "Pasni",
+      "country": "Pakistan",
+      "pop2023": 33110,
+      "latitude": 25.263,
+      "longitude": 63.4692
+    },
+    {
+      "city": "Sukheke Mandi",
+      "country": "Pakistan",
+      "pop2023": 32836,
+      "latitude": 31.8654,
+      "longitude": 73.5088
+    },
+    {
+      "city": "Setharja Old",
+      "country": "Pakistan",
+      "pop2023": 32651,
+      "latitude": 27.2127,
+      "longitude": 68.4688
+    },
+    {
+      "city": "Khewra",
+      "country": "Pakistan",
+      "pop2023": 32620,
+      "latitude": 32.6491,
+      "longitude": 73.0106
+    },
+    {
+      "city": "Mamu Kanjan",
+      "country": "Pakistan",
+      "pop2023": 31914,
+      "latitude": 30.8304,
+      "longitude": 72.7994
+    },
+    {
+      "city": "Sharqpur Sharif",
+      "country": "Pakistan",
+      "pop2023": 31855,
+      "latitude": 31.4612,
+      "longitude": 74.1009
+    },
+    {
+      "city": "Digri",
+      "country": "Pakistan",
+      "pop2023": 31842,
+      "latitude": 25.1566,
+      "longitude": 69.111
+    },
+    {
+      "city": "Bhera",
+      "country": "Pakistan",
+      "pop2023": 31781,
+      "latitude": 32.4821,
+      "longitude": 72.9087
+    },
+    {
+      "city": "Sakrand",
+      "country": "Pakistan",
+      "pop2023": 31630,
+      "latitude": 26.1385,
+      "longitude": 68.2744
+    },
+    {
+      "city": "Tando Jam",
+      "country": "Pakistan",
+      "pop2023": 31612,
+      "latitude": 25.4281,
+      "longitude": 68.5292
+    },
+    {
+      "city": "Raiwind",
+      "country": "Pakistan",
+      "pop2023": 31592,
+      "latitude": 31.2489,
+      "longitude": 74.2153
+    },
+    {
+      "city": "Lalian",
+      "country": "Pakistan",
+      "pop2023": 31355,
+      "latitude": 31.8246,
+      "longitude": 72.8012
+    },
+    {
+      "city": "Khairpur Tamewah",
+      "country": "Pakistan",
+      "pop2023": 30967,
+      "latitude": 29.5814,
+      "longitude": 72.238
+    },
+    {
+      "city": "Kharan",
+      "country": "Pakistan",
+      "pop2023": 30841,
+      "latitude": 28.5846,
+      "longitude": 65.415
+    },
+    {
+      "city": "Mehar",
+      "country": "Pakistan",
+      "pop2023": 30429,
+      "latitude": 27.1803,
+      "longitude": 67.8205
+    },
+    {
+      "city": "Khangah Dogran",
+      "country": "Pakistan",
+      "pop2023": 30314,
+      "latitude": 31.8329,
+      "longitude": 73.6221
+    },
+    {
+      "city": "Khairpur Nathan Shah",
+      "country": "Pakistan",
+      "pop2023": 30286,
+      "latitude": 27.0906,
+      "longitude": 67.7349
+    },
+    {
+      "city": "Upper Dir",
+      "country": "Pakistan",
+      "pop2023": 29869,
+      "latitude": 35.2074,
+      "longitude": 71.8768
+    },
+    {
+      "city": "Ghauspur",
+      "country": "Pakistan",
+      "pop2023": 29767,
+      "latitude": 28.1388,
+      "longitude": 69.0825
+    },
+    {
+      "city": "Tangi",
+      "country": "Pakistan",
+      "pop2023": 29444,
+      "latitude": 34.3009,
+      "longitude": 71.6524
+    },
+    {
+      "city": "Utmanzai",
+      "country": "Pakistan",
+      "pop2023": 29423,
+      "latitude": 34.1878,
+      "longitude": 71.7627
+    },
+    {
+      "city": "Thal",
+      "country": "Pakistan",
+      "pop2023": 29331,
+      "latitude": 35.4784,
+      "longitude": 72.2438
+    },
+    {
+      "city": "Minchianabad",
+      "country": "Pakistan",
+      "pop2023": 29253,
+      "latitude": 30.1636,
+      "longitude": 73.5686
+    },
+    {
+      "city": "Garh Maharaja",
+      "country": "Pakistan",
+      "pop2023": 29153,
+      "latitude": 30.8338,
+      "longitude": 71.9049
+    },
+    {
+      "city": "Jahanian Shah",
+      "country": "Pakistan",
+      "pop2023": 29095,
+      "latitude": 31.8054,
+      "longitude": 72.2774
+    },
+    {
+      "city": "Mastung",
+      "country": "Pakistan",
+      "pop2023": 29082,
+      "latitude": 29.7997,
+      "longitude": 66.8455
+    },
+    {
+      "city": "Mananwala",
+      "country": "Pakistan",
+      "pop2023": 28432,
+      "latitude": 31.588,
+      "longitude": 73.6893
+    },
+    {
+      "city": "Fazilpur",
+      "country": "Pakistan",
+      "pop2023": 28213,
+      "latitude": 32.1763,
+      "longitude": 75.0658
+    },
+    {
+      "city": "Talamba",
+      "country": "Pakistan",
+      "pop2023": 28151,
+      "latitude": 30.5269,
+      "longitude": 72.2408
+    },
+    {
+      "city": "Kunjah",
+      "country": "Pakistan",
+      "pop2023": 28103,
+      "latitude": 32.5298,
+      "longitude": 73.9749
+    },
+    {
+      "city": "Jhawarian",
+      "country": "Pakistan",
+      "pop2023": 27893,
+      "latitude": 32.3619,
+      "longitude": 72.6227
+    },
+    {
+      "city": "Nasirabad",
+      "country": "Pakistan",
+      "pop2023": 27809,
+      "latitude": 27.3814,
+      "longitude": 67.9164
+    },
+    {
+      "city": "Nushki",
+      "country": "Pakistan",
+      "pop2023": 27680,
+      "latitude": 29.5522,
+      "longitude": 66.0229
+    },
+    {
+      "city": "Sita Road",
+      "country": "Pakistan",
+      "pop2023": 27587,
+      "latitude": 27.0333,
+      "longitude": 67.85
+    },
+    {
+      "city": "Dijkot",
+      "country": "Pakistan",
+      "pop2023": 27469,
+      "latitude": 31.2174,
+      "longitude": 72.9962
+    },
+    {
+      "city": "Sillanwali",
+      "country": "Pakistan",
+      "pop2023": 27023,
+      "latitude": 31.8254,
+      "longitude": 72.5406
+    },
+    {
+      "city": "Kandiaro",
+      "country": "Pakistan",
+      "pop2023": 26807,
+      "latitude": 27.0592,
+      "longitude": 68.2102
+    },
+    {
+      "city": "Zaida",
+      "country": "Pakistan",
+      "pop2023": 26787,
+      "latitude": 34.0595,
+      "longitude": 72.4669
+    },
+    {
+      "city": "Kunri",
+      "country": "Pakistan",
+      "pop2023": 26773,
+      "latitude": 25.1787,
+      "longitude": 69.5657
+    },
+    {
+      "city": "Kalat",
+      "country": "Pakistan",
+      "pop2023": 26701,
+      "latitude": 29.0266,
+      "longitude": 66.5936
+    },
+    {
+      "city": "Daud Khel",
+      "country": "Pakistan",
+      "pop2023": 26395,
+      "latitude": 32.8753,
+      "longitude": 71.5712
+    },
+    {
+      "city": "Mitha Tiwana",
+      "country": "Pakistan",
+      "pop2023": 26390,
+      "latitude": 32.2454,
+      "longitude": 72.1061
+    },
+    {
+      "city": "Hazro City",
+      "country": "Pakistan",
+      "pop2023": 26309,
+      "latitude": 33.9099,
+      "longitude": 72.4918
+    },
+    {
+      "city": "Dunga Bunga",
+      "country": "Pakistan",
+      "pop2023": 25893,
+      "latitude": 29.7498,
+      "longitude": 73.2429
+    },
+    {
+      "city": "Aman Garh",
+      "country": "Pakistan",
+      "pop2023": 25723,
+      "latitude": 34.0058,
+      "longitude": 71.9297
+    },
+    {
+      "city": "Karor",
+      "country": "Pakistan",
+      "pop2023": 25634,
+      "latitude": 31.2246,
+      "longitude": 70.9515
+    },
+    {
+      "city": "Kot Diji",
+      "country": "Pakistan",
+      "pop2023": 25616,
+      "latitude": 27.3416,
+      "longitude": 68.7082
+    },
+    {
+      "city": "Kalur Kot",
+      "country": "Pakistan",
+      "pop2023": 25574,
+      "latitude": 32.1551,
+      "longitude": 71.2663
+    },
+    {
+      "city": "Murree",
+      "country": "Pakistan",
+      "pop2023": 25247,
+      "latitude": 33.9084,
+      "longitude": 73.3903
+    },
+    {
+      "city": "Faqirwali",
+      "country": "Pakistan",
+      "pop2023": 25186,
+      "latitude": 29.468,
+      "longitude": 73.0349
+    },
+    {
+      "city": "Ahmadpur Sial",
+      "country": "Pakistan",
+      "pop2023": 24889,
+      "latitude": 30.6779,
+      "longitude": 71.7434
+    },
+    {
+      "city": "Phalia",
+      "country": "Pakistan",
+      "pop2023": 24789,
+      "latitude": 32.431,
+      "longitude": 73.579
+    },
+    {
+      "city": "Yazman",
+      "country": "Pakistan",
+      "pop2023": 24580,
+      "latitude": 29.1212,
+      "longitude": 71.7446
+    },
+    {
+      "city": "Raja Jang",
+      "country": "Pakistan",
+      "pop2023": 24407,
+      "latitude": 31.2208,
+      "longitude": 74.2548
+    },
+    {
+      "city": "Chak Five Hundred Seventy-five",
+      "country": "Pakistan",
+      "pop2023": 24295,
+      "latitude": 31.5451,
+      "longitude": 73.8289
+    },
+    {
+      "city": "Pishin",
+      "country": "Pakistan",
+      "pop2023": 24239,
+      "latitude": 30.5818,
+      "longitude": 66.9941
+    },
+    {
+      "city": "Chak One Hundred Twenty Nine Left",
+      "country": "Pakistan",
+      "pop2023": 24053,
+      "latitude": 30.4292,
+      "longitude": 73.0452
+    },
+    {
+      "city": "Chawinda",
+      "country": "Pakistan",
+      "pop2023": 23599,
+      "latitude": 32.3443,
+      "longitude": 74.7051
+    },
+    {
+      "city": "Ubauro",
+      "country": "Pakistan",
+      "pop2023": 23462,
+      "latitude": 28.1643,
+      "longitude": 69.7311
+    },
+    {
+      "city": "Mithi",
+      "country": "Pakistan",
+      "pop2023": 23431,
+      "latitude": 24.737,
+      "longitude": 69.7971
+    },
+    {
+      "city": "Akora",
+      "country": "Pakistan",
+      "pop2023": 23288,
+      "latitude": 34.0034,
+      "longitude": 72.1256
+    },
+    {
+      "city": "Zafarwal",
+      "country": "Pakistan",
+      "pop2023": 23078,
+      "latitude": 32.3446,
+      "longitude": 74.8999
+    },
+    {
+      "city": "Kot Samaba",
+      "country": "Pakistan",
+      "pop2023": 22953,
+      "latitude": 28.5521,
+      "longitude": 70.4684
+    },
+    {
+      "city": "Eminabad",
+      "country": "Pakistan",
+      "pop2023": 22679,
+      "latitude": 32.0424,
+      "longitude": 74.26
+    },
+    {
+      "city": "Kahuta",
+      "country": "Pakistan",
+      "pop2023": 22551,
+      "latitude": 33.5918,
+      "longitude": 73.3874
+    },
+    {
+      "city": "Ranipur",
+      "country": "Pakistan",
+      "pop2023": 22495,
+      "latitude": 27.2872,
+      "longitude": 68.5062
+    },
+    {
+      "city": "Kulachi",
+      "country": "Pakistan",
+      "pop2023": 22376,
+      "latitude": 31.9306,
+      "longitude": 70.4596
+    },
+    {
+      "city": "Khanpur Mahar",
+      "country": "Pakistan",
+      "pop2023": 22273,
+      "latitude": 27.8409,
+      "longitude": 69.413
+    },
+    {
+      "city": "Hingorja",
+      "country": "Pakistan",
+      "pop2023": 22263,
+      "latitude": 27.2109,
+      "longitude": 68.416
+    },
+    {
+      "city": "Naukot",
+      "country": "Pakistan",
+      "pop2023": 22081,
+      "latitude": 24.8582,
+      "longitude": 69.4015
+    },
+    {
+      "city": "Pind Dadan Khan",
+      "country": "Pakistan",
+      "pop2023": 22001,
+      "latitude": 32.5866,
+      "longitude": 73.0446
+    },
+    {
+      "city": "Kanganpur",
+      "country": "Pakistan",
+      "pop2023": 21788,
+      "latitude": 30.7647,
+      "longitude": 74.1229
+    },
+    {
+      "city": "Faruka",
+      "country": "Pakistan",
+      "pop2023": 21747,
+      "latitude": 31.8864,
+      "longitude": 72.4136
+    },
+    {
+      "city": "Kotli Loharan",
+      "country": "Pakistan",
+      "pop2023": 21463,
+      "latitude": 32.5889,
+      "longitude": 74.4947
+    },
+    {
+      "city": "Shahpur Chakar",
+      "country": "Pakistan",
+      "pop2023": 21446,
+      "latitude": 26.1541,
+      "longitude": 68.6501
+    },
+    {
+      "city": "Talhar",
+      "country": "Pakistan",
+      "pop2023": 21154,
+      "latitude": 24.8845,
+      "longitude": 68.8144
+    },
+    {
+      "city": "Pad Idan",
+      "country": "Pakistan",
+      "pop2023": 20919,
+      "latitude": 26.7745,
+      "longitude": 68.3009
+    },
+    {
+      "city": "Kot Ghulam Muhammad",
+      "country": "Pakistan",
+      "pop2023": 20897,
+      "latitude": 32.3331,
+      "longitude": 74.5469
+    },
+    {
+      "city": "Qadirpur Ran",
+      "country": "Pakistan",
+      "pop2023": 20407,
+      "latitude": 30.2918,
+      "longitude": 71.6716
+    },
+    {
+      "city": "Bela",
+      "country": "Pakistan",
+      "pop2023": 20119,
+      "latitude": 26.2272,
+      "longitude": 66.3118
+    },
+    {
+      "city": "Surkhpur",
+      "country": "Pakistan",
+      "pop2023": 20000,
+      "latitude": 32.7182,
+      "longitude": 74.4477
+    },
+    {
+      "city": "Sook Kalan",
+      "country": "Pakistan",
+      "pop2023": 20000,
+      "latitude": 32.597,
+      "longitude": 74.1465
+    },
+    {
+      "city": "Dhoro Naro",
+      "country": "Pakistan",
+      "pop2023": 19907,
+      "latitude": 25.5048,
+      "longitude": 69.5709
+    },
+    {
+      "city": "Khangarh",
+      "country": "Pakistan",
+      "pop2023": 19698,
+      "latitude": 29.9145,
+      "longitude": 71.1607
+    },
+    {
+      "city": "Sarai Naurang",
+      "country": "Pakistan",
+      "pop2023": 19694,
+      "latitude": 32.8258,
+      "longitude": 70.7811
+    },
+    {
+      "city": "Gharo",
+      "country": "Pakistan",
+      "pop2023": 19524,
+      "latitude": 24.7418,
+      "longitude": 67.5853
+    },
+    {
+      "city": "Bhit Shah",
+      "country": "Pakistan",
+      "pop2023": 19325,
+      "latitude": 25.8057,
+      "longitude": 68.4914
+    },
+    {
+      "city": "Matiari",
+      "country": "Pakistan",
+      "pop2023": 18929,
+      "latitude": 25.5971,
+      "longitude": 68.4467
+    },
+    {
+      "city": "Dhanot",
+      "country": "Pakistan",
+      "pop2023": 18729,
+      "latitude": 29.5799,
+      "longitude": 71.7521
+    },
+    {
+      "city": "Warah",
+      "country": "Pakistan",
+      "pop2023": 18724,
+      "latitude": 27.448,
+      "longitude": 67.7965
+    },
+    {
+      "city": "Lachi",
+      "country": "Pakistan",
+      "pop2023": 18537,
+      "latitude": 33.3829,
+      "longitude": 71.3373
+    },
+    {
+      "city": "Baddomalhi",
+      "country": "Pakistan",
+      "pop2023": 18435,
+      "latitude": 31.9904,
+      "longitude": 74.6641
+    },
+    {
+      "city": "Jand",
+      "country": "Pakistan",
+      "pop2023": 18170,
+      "latitude": 33.433,
+      "longitude": 72.0188
+    },
+    {
+      "city": "Chak Two Hundred Forty-nine Thal Development Authority",
+      "country": "Pakistan",
+      "pop2023": 18126,
+      "latitude": 31.1777,
+      "longitude": 71.2048
+    },
+    {
+      "city": "Dera Bugti",
+      "country": "Pakistan",
+      "pop2023": 18120,
+      "latitude": 29.0362,
+      "longitude": 69.1585
+    },
+    {
+      "city": "Tharu Shah",
+      "country": "Pakistan",
+      "pop2023": 17698,
+      "latitude": 26.9423,
+      "longitude": 68.1176
+    },
+    {
+      "city": "Naushahro Firoz",
+      "country": "Pakistan",
+      "pop2023": 17631,
+      "latitude": 26.8401,
+      "longitude": 68.1227
+    },
+    {
+      "city": "Dajal",
+      "country": "Pakistan",
+      "pop2023": 17630,
+      "latitude": 29.5577,
+      "longitude": 70.3761
+    },
+    {
+      "city": "Daur",
+      "country": "Pakistan",
+      "pop2023": 17577,
+      "latitude": 26.4553,
+      "longitude": 68.3184
+    },
+    {
+      "city": "Bhopalwala",
+      "country": "Pakistan",
+      "pop2023": 17341,
+      "latitude": 32.4297,
+      "longitude": 74.3635
+    },
+    {
+      "city": "Paharpur",
+      "country": "Pakistan",
+      "pop2023": 17294,
+      "latitude": 32.105,
+      "longitude": 70.9706
+    },
+    {
+      "city": "Bhan",
+      "country": "Pakistan",
+      "pop2023": 16961,
+      "latitude": 26.5583,
+      "longitude": 67.7214
+    },
+    {
+      "city": "Mach",
+      "country": "Pakistan",
+      "pop2023": 16930,
+      "latitude": 29.8637,
+      "longitude": 67.3302
+    },
+    {
+      "city": "Goth Radhan",
+      "country": "Pakistan",
+      "pop2023": 16786,
+      "latitude": 27.1985,
+      "longitude": 67.9535
+    },
+    {
+      "city": "Uthal",
+      "country": "Pakistan",
+      "pop2023": 16483,
+      "latitude": 25.8072,
+      "longitude": 66.6219
+    },
+    {
+      "city": "Kaleke Mandi",
+      "country": "Pakistan",
+      "pop2023": 16361,
+      "latitude": 31.976,
+      "longitude": 73.6
+    },
+    {
+      "city": "Jiwani",
+      "country": "Pakistan",
+      "pop2023": 16322,
+      "latitude": 25.0485,
+      "longitude": 61.7457
+    },
+    {
+      "city": "Johi",
+      "country": "Pakistan",
+      "pop2023": 16311,
+      "latitude": 26.6922,
+      "longitude": 67.6143
+    },
+    {
+      "city": "Chhor",
+      "country": "Pakistan",
+      "pop2023": 16301,
+      "latitude": 25.5126,
+      "longitude": 69.7844
+    },
+    {
+      "city": "Mangla",
+      "country": "Pakistan",
+      "pop2023": 16264,
+      "latitude": 31.8931,
+      "longitude": 72.3817
+    },
+    {
+      "city": "Bhawana",
+      "country": "Pakistan",
+      "pop2023": 16218,
+      "latitude": 31.5688,
+      "longitude": 72.6492
+    },
+    {
+      "city": "Shahr Sultan",
+      "country": "Pakistan",
+      "pop2023": 16166,
+      "latitude": 29.5752,
+      "longitude": 71.0221
+    },
+    {
+      "city": "Jhol",
+      "country": "Pakistan",
+      "pop2023": 16067,
+      "latitude": 25.9553,
+      "longitude": 68.8887
+    },
+    {
+      "city": "Sodhri",
+      "country": "Pakistan",
+      "pop2023": 15977,
+      "latitude": 32.4621,
+      "longitude": 74.1821
+    },
+    {
+      "city": "Kalabagh",
+      "country": "Pakistan",
+      "pop2023": 15976,
+      "latitude": 32.9616,
+      "longitude": 71.5464
+    },
+    {
+      "city": "Sinjhoro",
+      "country": "Pakistan",
+      "pop2023": 15970,
+      "latitude": 26.0301,
+      "longitude": 68.8087
+    },
+    {
+      "city": "Kamar Mushani",
+      "country": "Pakistan",
+      "pop2023": 15867,
+      "latitude": 32.8432,
+      "longitude": 71.3619
+    },
+    {
+      "city": "Kallar Kahar",
+      "country": "Pakistan",
+      "pop2023": 15800,
+      "latitude": 32.78,
+      "longitude": 72.6979
+    },
+    {
+      "city": "Chuhar Jamali",
+      "country": "Pakistan",
+      "pop2023": 15781,
+      "latitude": 24.3944,
+      "longitude": 67.993
+    },
+    {
+      "city": "Harnoli",
+      "country": "Pakistan",
+      "pop2023": 15669,
+      "latitude": 32.2787,
+      "longitude": 71.5543
+    },
+    {
+      "city": "Sarai Sidhu",
+      "country": "Pakistan",
+      "pop2023": 15632,
+      "latitude": 30.5948,
+      "longitude": 71.9699
+    },
+    {
+      "city": "Choa Saidan Shah",
+      "country": "Pakistan",
+      "pop2023": 15344,
+      "latitude": 32.7196,
+      "longitude": 72.9863
+    },
+    {
+      "city": "Dadhar",
+      "country": "Pakistan",
+      "pop2023": 15090,
+      "latitude": 29.4749,
+      "longitude": 67.6517
+    },
+    {
+      "city": "Darya Khan",
+      "country": "Pakistan",
+      "pop2023": 15048,
+      "latitude": 31.7845,
+      "longitude": 71.102
+    },
+    {
+      "city": "Daira Din Panah",
+      "country": "Pakistan",
+      "pop2023": 14878,
+      "latitude": 30.5705,
+      "longitude": 70.9372
+    },
+    {
+      "city": "Garhiyasin",
+      "country": "Pakistan",
+      "pop2023": 14810,
+      "latitude": 27.9063,
+      "longitude": 68.5121
+    },
+    {
+      "city": "Madeji",
+      "country": "Pakistan",
+      "pop2023": 14802,
+      "latitude": 27.7531,
+      "longitude": 68.4517
+    },
+    {
+      "city": "Dokri",
+      "country": "Pakistan",
+      "pop2023": 14800,
+      "latitude": 27.3742,
+      "longitude": 68.0972
+    },
+    {
+      "city": "Sobhodero",
+      "country": "Pakistan",
+      "pop2023": 14623,
+      "latitude": 27.3048,
+      "longitude": 68.3971
+    },
+    {
+      "city": "Dalbandin",
+      "country": "Pakistan",
+      "pop2023": 14621,
+      "latitude": 28.8885,
+      "longitude": 64.4062
+    },
+    {
+      "city": "Daulatpur",
+      "country": "Pakistan",
+      "pop2023": 14574,
+      "latitude": 26.5016,
+      "longitude": 67.9708
+    },
+    {
+      "city": "Bhag",
+      "country": "Pakistan",
+      "pop2023": 14555,
+      "latitude": 29.0417,
+      "longitude": 67.8239
+    },
+    {
+      "city": "Rasulnagar",
+      "country": "Pakistan",
+      "pop2023": 14392,
+      "latitude": 32.3279,
+      "longitude": 73.7804
+    },
+    {
+      "city": "Chak",
+      "country": "Pakistan",
+      "pop2023": 14275,
+      "latitude": 27.8584,
+      "longitude": 68.8338
+    },
+    {
+      "city": "Shahpur",
+      "country": "Pakistan",
+      "pop2023": 14153,
+      "latitude": 32.2682,
+      "longitude": 72.4688
+    },
+    {
+      "city": "Tando Bago",
+      "country": "Pakistan",
+      "pop2023": 14095,
+      "latitude": 24.7891,
+      "longitude": 68.9653
+    },
+    {
+      "city": "Baffa",
+      "country": "Pakistan",
+      "pop2023": 14047,
+      "latitude": 34.4377,
+      "longitude": 73.2237
+    },
+    {
+      "city": "Karak",
+      "country": "Pakistan",
+      "pop2023": 13679,
+      "latitude": 33.1163,
+      "longitude": 71.0935
+    },
+    {
+      "city": "Garhi Khairo",
+      "country": "Pakistan",
+      "pop2023": 13666,
+      "latitude": 28.0603,
+      "longitude": 67.9803
+    },
+    {
+      "city": "Lakhi",
+      "country": "Pakistan",
+      "pop2023": 13600,
+      "latitude": 27.8488,
+      "longitude": 68.6997
+    },
+    {
+      "city": "Gadani",
+      "country": "Pakistan",
+      "pop2023": 13427,
+      "latitude": 25.1188,
+      "longitude": 66.7322
+    },
+    {
+      "city": "Surab",
+      "country": "Pakistan",
+      "pop2023": 13104,
+      "latitude": 28.4928,
+      "longitude": 66.26
+    },
+    {
+      "city": "Rojhan",
+      "country": "Pakistan",
+      "pop2023": 13031,
+      "latitude": 28.6873,
+      "longitude": 69.9535
+    },
+    {
+      "city": "Ormara",
+      "country": "Pakistan",
+      "pop2023": 13026,
+      "latitude": 25.2102,
+      "longitude": 64.6363
+    },
+    {
+      "city": "Chamber",
+      "country": "Pakistan",
+      "pop2023": 12746,
+      "latitude": 25.2936,
+      "longitude": 68.8118
+    },
+    {
+      "city": "Kalaswala",
+      "country": "Pakistan",
+      "pop2023": 12576,
+      "latitude": 32.2008,
+      "longitude": 74.6486
+    },
+    {
+      "city": "Islamkot",
+      "country": "Pakistan",
+      "pop2023": 12426,
+      "latitude": 24.699,
+      "longitude": 70.1798
+    },
+    {
+      "city": "Liliani",
+      "country": "Pakistan",
+      "pop2023": 12211,
+      "latitude": 32.2039,
+      "longitude": 72.9512
+    },
+    {
+      "city": "Bhiria",
+      "country": "Pakistan",
+      "pop2023": 12186,
+      "latitude": 26.9104,
+      "longitude": 68.1947
+    },
+    {
+      "city": "Mirwah Gorchani",
+      "country": "Pakistan",
+      "pop2023": 12139,
+      "latitude": 25.3098,
+      "longitude": 69.0502
+    },
+    {
+      "city": "Dhaunkal",
+      "country": "Pakistan",
+      "pop2023": 12117,
+      "latitude": 32.4061,
+      "longitude": 74.1371
+    },
+    {
+      "city": "Daultala",
+      "country": "Pakistan",
+      "pop2023": 11814,
+      "latitude": 33.1928,
+      "longitude": 73.141
+    },
+    {
+      "city": "Diplo",
+      "country": "Pakistan",
+      "pop2023": 11575,
+      "latitude": 24.4669,
+      "longitude": 69.5811
+    },
+    {
+      "city": "Kohlu",
+      "country": "Pakistan",
+      "pop2023": 11089,
+      "latitude": 29.8965,
+      "longitude": 69.2532
+    },
+    {
+      "city": "Harnai",
+      "country": "Pakistan",
+      "pop2023": 11066,
+      "latitude": 30.1008,
+      "longitude": 67.9382
+    },
+    {
+      "city": "Jandiala Sher Khan",
+      "country": "Pakistan",
+      "pop2023": 10985,
+      "latitude": 31.821,
+      "longitude": 73.9182
+    },
+    {
+      "city": "Daromehar",
+      "country": "Pakistan",
+      "pop2023": 10869,
+      "latitude": 24.7938,
+      "longitude": 68.1798
+    },
+    {
+      "city": "Mankera",
+      "country": "Pakistan",
+      "pop2023": 10819,
+      "latitude": 31.3877,
+      "longitude": 71.4405
+    },
+    {
+      "city": "Sanjwal",
+      "country": "Pakistan",
+      "pop2023": 10657,
+      "latitude": 33.7611,
+      "longitude": 72.4332
+    },
+    {
+      "city": "Miro Khan",
+      "country": "Pakistan",
+      "pop2023": 10590,
+      "latitude": 27.7598,
+      "longitude": 68.0919
+    },
+    {
+      "city": "Gilgit",
+      "country": "Pakistan",
+      "pop2023": 10414,
+      "latitude": 35.9187,
+      "longitude": 74.3124
+    },
+    {
+      "city": "Kot Sultan",
+      "country": "Pakistan",
+      "pop2023": 10000,
+      "latitude": 30.7737,
+      "longitude": 70.9313
+    },
+    {
+      "city": "Gahkuch",
+      "country": "Pakistan",
+      "pop2023": 10000,
+      "latitude": 36.1768,
+      "longitude": 73.7638
+    },
+    {
+      "city": "Khadro",
+      "country": "Pakistan",
+      "pop2023": 9997,
+      "latitude": 26.1471,
+      "longitude": 68.7178
+    },
+    {
+      "city": "Berani",
+      "country": "Pakistan",
+      "pop2023": 9975,
+      "latitude": 25.785,
+      "longitude": 68.8075
+    },
+    {
+      "city": "Begowala",
+      "country": "Pakistan",
+      "pop2023": 9259,
+      "latitude": 32.4382,
+      "longitude": 74.2679
+    },
+    {
+      "city": "Tangwani",
+      "country": "Pakistan",
+      "pop2023": 9255,
+      "latitude": 28.2789,
+      "longitude": 68.9976
+    },
+    {
+      "city": "Bozdar Wada",
+      "country": "Pakistan",
+      "pop2023": 9175,
+      "latitude": 27.183,
+      "longitude": 68.6358
+    },
+    {
+      "city": "Jati",
+      "country": "Pakistan",
+      "pop2023": 9152,
+      "latitude": 24.3549,
+      "longitude": 68.2673
+    },
+    {
+      "city": "Rustam",
+      "country": "Pakistan",
+      "pop2023": 9048,
+      "latitude": 27.9671,
+      "longitude": 68.8039
+    },
+    {
+      "city": "Darya Khan Marri",
+      "country": "Pakistan",
+      "pop2023": 8973,
+      "latitude": 26.6777,
+      "longitude": 68.2867
+    },
+    {
+      "city": "Sohbatpur",
+      "country": "Pakistan",
+      "pop2023": 8940,
+      "latitude": 28.5204,
+      "longitude": 68.543
+    },
+    {
+      "city": "Doaba",
+      "country": "Pakistan",
+      "pop2023": 8893,
+      "latitude": 33.4245,
+      "longitude": 70.7368
+    },
+    {
+      "city": "Mirpur Bhtoro",
+      "country": "Pakistan",
+      "pop2023": 8866,
+      "latitude": 24.7285,
+      "longitude": 68.2601
+    },
+    {
+      "city": "Sann",
+      "country": "Pakistan",
+      "pop2023": 8834,
+      "latitude": 26.0403,
+      "longitude": 68.1376
+    },
+    {
+      "city": "Samaro",
+      "country": "Pakistan",
+      "pop2023": 8784,
+      "latitude": 25.2814,
+      "longitude": 69.3962
+    },
+    {
+      "city": "Barkhan",
+      "country": "Pakistan",
+      "pop2023": 8760,
+      "latitude": 29.8977,
+      "longitude": 69.5256
+    },
+    {
+      "city": "Bandhi",
+      "country": "Pakistan",
+      "pop2023": 8608,
+      "latitude": 26.5876,
+      "longitude": 68.3021
+    },
+    {
+      "city": "Karaundi",
+      "country": "Pakistan",
+      "pop2023": 8604,
+      "latitude": 26.8971,
+      "longitude": 68.4064
+    },
+    {
+      "city": "Mirpur Sakro",
+      "country": "Pakistan",
+      "pop2023": 8371,
+      "latitude": 24.5469,
+      "longitude": 67.628
+    },
+    {
+      "city": "Adilpur",
+      "country": "Pakistan",
+      "pop2023": 8247,
+      "latitude": 27.9368,
+      "longitude": 69.3194
+    },
+    {
+      "city": "Bagarji",
+      "country": "Pakistan",
+      "pop2023": 8005,
+      "latitude": 27.7543,
+      "longitude": 68.7587
+    },
+    {
+      "city": "Goth Phulji",
+      "country": "Pakistan",
+      "pop2023": 7877,
+      "latitude": 26.881,
+      "longitude": 67.6824
+    },
+    {
+      "city": "Rajo Khanani",
+      "country": "Pakistan",
+      "pop2023": 7683,
+      "latitude": 24.9839,
+      "longitude": 68.8537
+    },
+    {
+      "city": "Alik Ghund",
+      "country": "Pakistan",
+      "pop2023": 7630,
+      "latitude": 30.4898,
+      "longitude": 67.5218
+    },
+    {
+      "city": "Dinan Bashnoian Wala",
+      "country": "Pakistan",
+      "pop2023": 7500,
+      "latitude": 29.7658,
+      "longitude": 73.2656
+    },
+    {
+      "city": "Jam Sahib",
+      "country": "Pakistan",
+      "pop2023": 6869,
+      "latitude": 26.2958,
+      "longitude": 68.6292
+    },
+    {
+      "city": "Kandiari",
+      "country": "Pakistan",
+      "pop2023": 6861,
+      "latitude": 26.9155,
+      "longitude": 68.5219
+    },
+    {
+      "city": "Kadhan",
+      "country": "Pakistan",
+      "pop2023": 6854,
+      "latitude": 24.4804,
+      "longitude": 68.9855
+    },
+    {
+      "city": "Goth Garelo",
+      "country": "Pakistan",
+      "pop2023": 6853,
+      "latitude": 27.4352,
+      "longitude": 68.0757
+    },
+    {
+      "city": "Nazir Town",
+      "country": "Pakistan",
+      "pop2023": 6750,
+      "latitude": 33.3061,
+      "longitude": 73.4833
+    },
+    {
+      "city": "Khadan Khak",
+      "country": "Pakistan",
+      "pop2023": 6622,
+      "latitude": 30.7524,
+      "longitude": 67.7113
+    },
+    {
+      "city": "Pithoro",
+      "country": "Pakistan",
+      "pop2023": 6440,
+      "latitude": 25.5112,
+      "longitude": 69.378
+    },
+    {
+      "city": "Duki",
+      "country": "Pakistan",
+      "pop2023": 6384,
+      "latitude": 30.1531,
+      "longitude": 68.5732
+    },
+    {
+      "city": "Nabisar",
+      "country": "Pakistan",
+      "pop2023": 6256,
+      "latitude": 25.0672,
+      "longitude": 69.6434
+    },
+    {
+      "city": "Kario Ghanwar",
+      "country": "Pakistan",
+      "pop2023": 5685,
+      "latitude": 24.8082,
+      "longitude": 68.6048
+    },
+    {
+      "city": "Mehmand Chak",
+      "country": "Pakistan",
+      "pop2023": 5000,
+      "latitude": 32.7852,
+      "longitude": 73.8231
+    },
+    {
+      "city": "Mughalabad",
+      "country": "Pakistan",
+      "pop2023": 5000,
+      "latitude": 33.8973,
+      "longitude": 73.4255
+    },
+    {
+      "city": "Bulri",
+      "country": "Pakistan",
+      "pop2023": 4997,
+      "latitude": 24.8667,
+      "longitude": 68.3333
+    },
+    {
+      "city": "Shingli Bala",
+      "country": "Pakistan",
+      "pop2023": 4000,
+      "latitude": 34.6787,
+      "longitude": 72.9849
+    },
+    {
+      "city": "Miran Shah",
+      "country": "Pakistan",
+      "pop2023": 3334,
+      "latitude": 33.0006,
+      "longitude": 70.0712
+    },
+    {
+      "city": "Alizai",
+      "country": "Pakistan",
+      "pop2023": 3334,
+      "latitude": 33.5361,
+      "longitude": 70.3461
+    },
+    {
+      "city": "Amirabad",
+      "country": "Pakistan",
+      "pop2023": 3000,
+      "latitude": 34.1873,
+      "longitude": 73.0908
+    },
+    {
+      "city": "Kakad Wari Dir Upper",
+      "country": "Pakistan",
+      "pop2023": 3000,
+      "latitude": 34.998,
+      "longitude": 72.073
+    },
+    {
+      "city": "Cherat Cantonement",
+      "country": "Pakistan",
+      "pop2023": 2986,
+      "latitude": 33.8234,
+      "longitude": 71.8929
+    },
+    {
+      "city": "Keti Bandar",
+      "country": "Pakistan",
+      "pop2023": 2934,
+      "latitude": 24.1442,
+      "longitude": 67.4509
+    },
+    {
+      "city": "Tando Mitha Khan",
+      "country": "Pakistan",
+      "pop2023": 2723,
+      "latitude": 25.9963,
+      "longitude": 69.2025
+    }
+  ]
